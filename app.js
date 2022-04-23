@@ -24,7 +24,7 @@ const app = express();
 //CORS
 app.use(
   cors({
-    origin: '*',
+    origin: 'https://fund-raiser.netlify.app/',
     credentials: true,
   })
 );
