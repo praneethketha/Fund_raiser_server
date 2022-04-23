@@ -22,8 +22,12 @@ const app = express();
 //3) MIDDILEWARES
 
 //CORS
-app.use(cors());
-app.options('*', cors());
+const corsOptions = {
+  origin: 'https://fund-raiser.netlify.app/',
+  credentials: true,
+  optionsSuccessStatus: 200, // for some legacy browsers
+};
+app.use(cors(corsOptions));
 
 // Set security HTTP headers
 app.use(helmet());
