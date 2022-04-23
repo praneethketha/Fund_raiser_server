@@ -23,12 +23,12 @@
     "mongoose": "^5.13.14",
     "morgan": "^1.10.0",
     "nodemailer": "^6.7.2",
+    "nodemailer-express-handlebars": "^4.0.0",
     "validator": "^13.7.0",
     "xss-clean": "^0.1.1"
   },
   "devDependencies": {
     "install": "^0.13.0",
-    "nodemailer-express-handlebars": "^4.0.0",
     "nodemon": "^2.0.15"
   },
   "engines": {
