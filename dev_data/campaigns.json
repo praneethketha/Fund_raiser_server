@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Funds for Floods",
+    "details": "Heavy rains and floods claimed three lives and disrupted normalcy in several parts of Kurnool district since Friday night. Minor rivers and streams are in spate and have washed away roads in several parts of the district. Officials released 39,868 cusecs of water into the Handri River and canals.",
+    "target_amount": 40000,
+    "collected_amount": 22500,
+    "category": "emergency",
+    "cover_pic": "new_image.jpg",
+    "certificates": ["new_img.jpg", "new_img2.jpg", "new_img3.jpg"],
+    "address": "31/1079-8, Teachers colony",
+    "contact_number": 9997766891,
+    "email": "fundraiser@gmail.com",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Accident",
+    "details": "Accidents are a common feature of the human experience and result in injury or permanent disability to large numbers of people worldwide every year. Many accidents also involve damage to or loss of property.",
+    "target_amount": 40000,
+    "collected_amount": 22500,
+    "category": "emergency",
+    "cover_pic": "new_image.jpg",
+    "certificates": ["new_img.jpg", "new_img2.jpg", "new_img3.jpg"],
+    "address": "31/1079-8, Teachers colony",
+    "contact_number": 9997766891,
+    "email": "fundraiser@gmail.com",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Oldage home",
+    "details": "A retirement home sometimes called an old people's home or old age home, although old people's home can also refer to a nursing home is a multi-residence housing facility intended for the elderly. Typically, each person or couple in the home has an apartment-style room or suite of rooms. Additional facilities are provided within the building. This can include facilities for meals, gatherings, recreation activities, and some form of health or hospital care. A place in a retirement home can be paid for on a rental basis, like an apartment, or can be bought in perpetuity on the same basis as a condominium.",
+    "target_amount": 40000,
+    "collected_amount": 22500,
+    "category": "orphanages",
+    "cover_pic": "new_image.jpg",
+    "certificates": ["new_img.jpg", "new_img2.jpg", "new_img3.jpg"],
+    "address": "31/1079-8, Teachers colony",
+    "contact_number": 9997766891,
+    "email": "fundraiser3@gmail.com",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Child Education",
+    "details": "Early Childhood Education is one of the largest unregulated spaces in Indian Education. Despite research and efforts to improve quality, the gap between different economic sections of society is widening each year in terms of the parent's ability to provide quality ECE for their children.",
+    "target_amount": 40000,
+    "collected_amount": 22500,
+    "category": "education",
+    "cover_pic": "new_image.jpg",
+    "certificates": ["new_img.jpg", "new_img2.jpg", "new_img3.jpg"],
+    "address": "31/1079-8, Teachers colony",
+    "contact_number": 9997766891,
+    "email": "fundraiser14@gmail.com",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "name": "Animal Welfare",
+    "details": "Animal welfare is the well-being of non-human animals. Formal standards of animal welfare vary between contexts, but are debated mostly by animal welfare groups, legislators, and academics. Animal welfare science uses measures such as longevity, disease, immunosuppression, behavior, physiology, and reproduction, although there is debate about which of these best indicate animal welfare.",
+    "target_amount": 40000,
+    "collected_amount": 22500,
+    "category": "animals",
+    "cover_pic": "new_image.jpg",
+    "certificates": ["new_img.jpg", "new_img2.jpg", "new_img3.jpg"],
+    "address": "31/1079-8, Teachers colony",
+    "contact_number": 9997766891,
+    "email": "fundraiser05@gmail.com",
+    "state": "Andhra Pradesh"
+  }
+]
