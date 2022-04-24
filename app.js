@@ -23,6 +23,8 @@ const app = express();
 
 //CORS
 const corsOptions = {
+  origin: /fund-raiser\.netlify.app$/,
+  methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
   credentials: true,
   optionsSuccessStatus: 200, // for some legacy browsers
 };
