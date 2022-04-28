@@ -138,7 +138,7 @@ exports.forgotPassword = catchAsync(async (req, res, next) => {
   await user.save({ validateBeforeSave: false });
 
   //3) Send it to user's email
-  const message = `<p> Dear ${user.name}, <br /> <br /> <p>&emsp; We received a request to reset your password for your Fund Raiser account: ${user.email}. Please click below linkt to reset your password. It will work only for 10 mintues.</p> <br /><a class="reset-password" href="https://fund-raiser.netlify.app/resetPassword/${resetToken}">Reset password</a><br /> <p>If you did not request to reset your password, please ignore this message.</p> <br /><p>Thank you,</p> <p>Fund Raiser Team.</p>`;
+  const message = `<p> Dear ${user.name}, <br /> <br /> <p>&emsp; We received a request to reset your password for your Fund Raiser account: ${user.email}. Please click below linkt to reset your password. It will work only for 10 mintues.</p> <br /><a class="reset-password" href="http://localhost:3001/resetPassword/${resetToken}">Reset password</a><br /> <p>If you did not request to reset your password, please ignore this message.</p> <br /><p>Thank you,</p> <p>Fund Raiser Team.</p>`;
 
   //3A) Reading template from the views
   let template = fs.readFileSync(

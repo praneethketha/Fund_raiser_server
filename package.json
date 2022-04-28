@@ -4,7 +4,7 @@
   "description": "it allows users to create campaigns and raise funds.",
   "main": "app.js",
   "scripts": {
-    "start": "node server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "praneethKetha",
